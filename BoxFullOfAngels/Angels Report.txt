@@ -1,0 +1,153 @@
+﻿Angels.swf Movie Report
+------------------------
+
+Frame #    Frame Bytes    Total Bytes    Scene
+-------    -----------    -----------    -----
+      1         187046         187046    Scene 1 (AS 3.0 Classes Export Frame)
+
+Scene      Shape Bytes    Text Bytes    ActionScript Bytes
+-------    -----------    ----------    ------------------
+Scene 1              0             0                 22217
+
+Symbol            Shape Bytes    Text Bytes    ActionScript Bytes
+--------------    -----------    ----------    ------------------
+NameMenuB                   0           200                     0
+NameMenuM                 140           203                     0
+ChatIcon                    0             0                     0
+Symbol 100                  0             0                     0
+Symbol 98                   0             0                     0
+KeyIcon                     0             0                     0
+Symbol 96                   0             0                     0
+Note                       44             0                     0
+NotGreen                    0             0                     0
+Symbol 93                   0             0                     0
+Off                         0             0                     0
+Symbol 91                   0             0                     0
+Symbol 90                   0             0                     0
+Symbol 89                   0             0                     0
+Attachment                  0             0                     0
+Symbol 87                   0             0                     0
+Download                   39            98                     0
+Symbol 85                   0             0                     0
+emailback                  42             0                     0
+EmailClient                 0           193                     0
+TypedIcon                   0             0                     0
+HandIcon                    0             0                     0
+TapeIcon                    0             0                     0
+LetterIcon                  0             0                     0
+NBIcon                      0             0                     0
+Symbol 77                   0             0                     0
+Symbol 76                   0             0                     0
+Symbol 75                   0             0                     0
+Symbol 74                   0             0                     0
+Symbol 73                   0             0                     0
+Symbol 72                   0             0                     0
+OpenBox5                    0           163                     0
+OpenBox4                    0           244                     0
+OpenBox3                    0           175                     0
+OpenBox2                    0           175                     0
+OpenBox1                    0             0                     0
+B4L8                        0           212                     0
+B4L7                        0           218                     0
+B4L6                        0           213                     0
+B4L5                        0           378                     0
+B4L3                        0           447                     0
+B4L2                        0           151                     0
+B4L4                        0           591                     0
+Symbol 59                   0             0                     0
+B4L1                        0           155                     0
+Symbol 57                   0             0                     0
+Hand                        0           383                     0
+Symbol 55                   0             0                     0
+Symbol 54                   0             0                     0
+Typed                       0           345                     0
+Symbol 52                   0             0                     0
+Tapes                       0           161                     0
+B5N4                        0           464                     0
+B5N3                        0           305                     0
+B5N2                        0           307                     0
+B5N1                        0           439                     0
+B3N4                        0           373                     0
+B3N3                        0           221                     0
+B3N2                        0           292                     0
+B3N1                        0           640                     0
+B2N3                        0           177                     0
+B2N2                        0           174                     0
+B2N1                        0           273                     0
+Symbol 39                   0             0                     0
+Symbol 38                   0             0                     0
+OpenBox                     0           164                     0
+Symbol 36                   0             0                     0
+KeyEntry                   56            40                     0
+Symbol 34                   0             0                     0
+EmailIcon                   0             0                     0
+Symbol 32                   0             0                     0
+Symbol 31                   0             0                     0
+Symbol 30                   0             0                     0
+Symbol 29                   0             0                     0
+Symbol 28                   0             0                     0
+Symbol 27                   0             0                     0
+Box                         0             0                     0
+Symbol 25                   0             0                     0
+RadioButton                39             0                     0
+Symbol 22                   0             0                     0
+Symbol 21                   0             0                     0
+Symbol 19                   0             0                     0
+Symbol 18                   0             0                     0
+Radio                       0             0                     0
+Symbol 16                   0             0                     0
+Symbol 1                    0             0                     0
+backdrop                    0             0                     0
+red                         0             0                     0
+RedButton                   0             0                     0
+Symbol 9                    0             0                     0
+Symbol 7                    0             0                     0
+ChatWindow                  0             0                     0
+chatwindow.psd              0             0                     0
+gradientbg                  0             0                     0
+
+Font Name                      Bytes         Characters
+---------------------------    ----------    ----------
+Univers-MediumItalic Italic          1799     .GMTUabdeghilnrstuxy 
+Univers-Bold Bold                   25788     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćČčĎďĐđĒēĖėĘęĚěĞğĢģĪīĮįİıĶķĹĺĻļĽľŁłŃńŅņŇňŌōŐőŒœŔŕŖŗŘřŚśŞşŠšŢţŤťŪūŮůŰűŲųŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝Δμ–—‘’‚“”„†‡•…‰‹›⁴€™∂∑∕√≠≤≥
+TwCenMT-Regular                      2922     LMachlnru 
+Univers-Medium                      28964     !"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\]^_`abcdefghijklmnopqrstuvwxyz{|}~ ¡¢£¤¥¦§¨©ª«¬­®¯°±²³´µ¶·¸¹º»¼½¾¿ÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖ×ØÙÚÛÜÝÞßàáâãäåæçèéêëìíîïðñòóôõö÷øùúûüýþÿĀāĂăĄąĆćČčĎďĐđĒēĖėĘęĚěĞğĢģĪīĮįİıĶķĹĺĻļĽľŁłŃńŅņŇňŌōŐőŒœŔŕŖŗŘřŚśŞşŠšŢţŤťŪūŮůŰűŲųŸŹźŻżŽžƒˆˇˉ˘˙˚˛˜˝ΔΩμπ–—‘’‚“”„†‡•…‰‹›⁄⁴€™Ω∂∏∑∕√∞∫≠≤≥
+
+ActionScript Bytes    Location
+------------------    --------
+             22217    Scene 1:Frame 1
+
+Bitmap                        Compressed    Original      Compression
+--------------------------    ----------    ----------    -----------
+bg.jpg                              7963       3145728    Imported JPEG=102
+Shape 4                             1189         28080    JPEG Quality=100
+Shape 3                             8033        249424    JPEG Quality=100
+Shape 2                              616        300000    JPEG Quality=100
+Shape 1                             2969        300000    JPEG Quality=100
+16x16_cancel.png                     570          1024    JPEG Quality=100
+radio.png                          11829        135664    JPEG Quality=100
+radio_button.png                     681          2376    JPEG Quality=100
+box.png                             3851         25200    JPEG Quality=100
+64x64_korn.png                      3144         16384    JPEG Quality=100
+openbox.png                         2478        828976    Lossless
+128x128_kdict.png                   6672         65536    JPEG Quality=100
+128x128_kdat.png                    4320         65536    JPEG Quality=100
+128x128_krec_fileempty.png          7180         65536    JPEG Quality=100
+128x128_txt.png                     9498         65536    JPEG Quality=100
+128x128_email.png                   6176         65536    JPEG Quality=100
+22x22_kdict.png                      986          1936    JPEG Quality=100
+22x22_email.png                      865          1936    JPEG Quality=100
+22x22_kdat.png                       680          1936    JPEG Quality=100
+22x22_txt.png                        764          1936    JPEG Quality=100
+22x22_krec_fileempty.png             647          1936    JPEG Quality=100
+book_open.png                        495          1024    JPEG Quality=100
+64x64_kwrite.png                    3397         16384    JPEG Quality=100
+off.png                              702          1856    JPEG Quality=100
+notgreen.png                         354         28616    Lossless
+key.png                             2133          8700    JPEG Quality=100
+key_roll.png                        2634          8700    JPEG Quality=100
+64x64_chat.png                      2676         16384    JPEG Quality=100
+
+
+
+
